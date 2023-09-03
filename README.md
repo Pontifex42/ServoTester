@@ -19,8 +19,8 @@ Used hardware:
 - a self printed case
 - some female-female Dupont wires
 - some hot glue
-- M 2,5 mm melt-in thread inserts and M2,5 screws
+- M 2mm melt-in thread inserts and M2mmx8mm countersunk screws
 
 The wiring is obvious if you read "PinConfig.h", so there is no schematics here.
 
-Questions? Try "github@hartwig.org" and I will answer quick.
+Questions? Try "github@hartwig.org" and I will answer fast.
